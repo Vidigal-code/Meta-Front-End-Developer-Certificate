@@ -1,4 +1,4 @@
-##<p align="center">Meta Front-End Developer</p>
+## Meta Front-End Developer
 
 <p align="center">
 <br/>
