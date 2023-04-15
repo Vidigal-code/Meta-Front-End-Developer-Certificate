@@ -5,7 +5,7 @@
 <a href="https://www.coursera.org/professional-certificates/meta-front-end-developer?=" target="_blank">Click here to see the course</a>
 </p>
 <br/>
-<img  href="https://www.coursera.org/professional-certificates/meta-front-end-developer?=" align="center" src="./view.png" alt="Meta Front-End Developer"/>
+<img  href="https://www.coursera.org/professional-certificates/meta-front-end-developer?=" align="center" src="./views.png" alt="Meta Front-End Developer"/>
 
 <p align="center">
 <br/>
